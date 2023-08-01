@@ -1,0 +1,1 @@
+ALTER TABLE relays DROP COLUMN seen;
